@@ -1,0 +1,54 @@
+.Fondo{
+    background-image:url(OIP.jpg);
+    background-attachment: scroll;
+    background-position: center top;
+    background-size: 500px;
+}
+.departamento{
+    text-align: center;
+   color: blue;
+}
+.tradicion{
+    text-align: left;
+   color: brown;
+}
+.primera{
+    background-color: red;
+}
+.segunda{
+    background-color: orange;
+}
+.tercera{
+    background-color: red;
+}
+.cuarta{
+    background-color: orange
+}
+.platillos{
+    text-align: left;
+   color: brown;
+}
+.uno{
+    background-color: lawngreen;
+}
+.dos{
+    background-color: orange;
+}
+.tres{
+    background-color: lawngreen;
+}
+.cuatro{
+    background-color: orange;
+}
+.tierras{
+   color: blue;
+}
+.territorio{
+      align-items: stretch;
+    display: grid;
+  height: 100px;
+  justify-content: center;
+  width: 1000px;
+    text-align: center;
+    background-color: aqua;
+}
